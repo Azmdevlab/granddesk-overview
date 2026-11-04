@@ -1,17 +1,17 @@
 # GrandDesk
 
-**Помощник команды поддержки игроков**
+**Thoughtful support for every player.**
 
-GrandDesk помогает операторам быстрее разбираться в обращениях и готовить внимательные, понятные ответы. Он собирает важные сведения из диалога, помогает уточнить проблему и сохраняет контекст общения с игроком.
+GrandDesk helps player support teams understand requests, gather relevant details, and prepare clear, considerate responses. By keeping conversations and context in one workspace, it helps operators spend less time on repetitive work and more time helping players.
 
-## Польза для команды
+## Built around the support team
 
-- Меньше времени на повторяющиеся вопросы и подготовку ответов.
-- Обращения и история общения в одном рабочем месте.
-- Поддержка общения на русском, казахском, узбекском и английском языках.
-- Подготовка сводки для специалиста в сложных ситуациях.
-- Возможность проверить и отредактировать ответ перед отправкой игроку.
+- **Less repetitive work.** Prepare replies and follow-up questions with the conversation context at hand.
+- **One workspace.** Keep requests, conversation history, and response drafts together.
+- **Multilingual communication.** Support players in English, Russian, Kazakh, and Uzbek.
+- **Clearer handoffs.** Prepare concise summaries so specialists can pick up complex cases with the relevant details.
+- **Operator control.** Review and refine each draft before sharing it with a player.
 
-GrandDesk создан для того, чтобы сделать работу поддержки последовательнее, а общение с игроками понятнее и внимательнее. Решения, требующие полномочий администратора, остаются за человеком.
+The goal is consistent, attentive support that helps players understand what comes next. Decisions requiring administrative authority remain with the support team.
 
-В этом репозитории опубликовано только описание проекта. Исходный код и техническая документация находятся в закрытом доступе.
+This repository contains the public project overview. Source code and technical documentation are maintained privately.
